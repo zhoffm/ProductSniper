@@ -1,0 +1,9 @@
+{
+  "name": "ProductSniper",
+  "version": "1.0.0",
+  "description": "tool to help me get a PS5 and/or an Xbox Series X (and maybe to also get better at javascript along the way",
+  "main": "index.js",
+  "author": "Me!",
+  "license": "MIT",
+  "private": true
+}
