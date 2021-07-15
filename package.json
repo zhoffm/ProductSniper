@@ -1,9 +1,15 @@
 {
   "name": "ProductSniper",
+  "scripts": {
+    "start": "node index.js"
+  },
   "version": "1.0.0",
   "description": "tool to help me get a PS5 and/or an Xbox Series X (and maybe to also get better at javascript along the way",
   "main": "index.js",
   "author": "Me!",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
 }
